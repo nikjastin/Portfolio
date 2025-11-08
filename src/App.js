@@ -9,7 +9,6 @@ import Skills from './components/Skills';
 import Projects from './components/Projects';
 import Certifications from './components/Certifications';
 import Footer from './components/Footer';
-import DownloadButton from './components/DownloadButton';
 
 function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
@@ -50,9 +49,6 @@ function App() {
           <Certifications />
           <Footer />
         </div>
-
-        {/* Floating Download Button */}
-        <DownloadButton />
 
         {/* Scroll to Top Button */}
         {showScrollTop && (
