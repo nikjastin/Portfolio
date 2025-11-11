@@ -2,7 +2,7 @@
   "name": "resume-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://nikjastin.github.io/Resume",
+  "homepage": "https://nikjastin.github.io/NickJustinPortfolio",
   "dependencies": {
     "ipaddr.js": "^2.2.0",
     "react": "^18.2.0",

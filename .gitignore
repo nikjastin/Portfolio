@@ -1,25 +1,3 @@
-<<<<<<< HEAD
-# Operating System Files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editor Files
-.vscode/
-!.vscode/settings.json
-.idea/
-*.swp
-*.swo
-*~
-
-# Temporary Files
-*.tmp
-*.log
-
-# Personal Notes (if you create any)
-notes.txt
-todo.txt
-=======
 # dependencies
 /node_modules
 /.pnp
@@ -41,4 +19,23 @@ todo.txt
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
->>>>>>> 69d65cdf66fd107deb8b541f87dc9ac014563560
+
+# Operating System Files
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.log
+
+# Personal Notes
+notes.txt
+todo.txt
