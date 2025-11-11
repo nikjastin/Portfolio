@@ -32,40 +32,13 @@ const Certifications = () => {
       image: `${process.env.PUBLIC_URL}/certificates/CISCO1.jpg`
     },
     {
-      title: '🔐 Cisco - Introduction to Cybersecurity',
-      institution: 'Cisco Networking Academy',
-      date: 'May 25, 2025',
-      description: 'Completed the Introduction to Cybersecurity course.',
-      badge: 'CISCO',
-      borderColor: 'border-blue-500',
-      image: `${process.env.PUBLIC_URL}/certificates/CISCO2.jpg`
-    },
-    {
       title: '📊 Cisco - Data Analytics Essentials',
       institution: 'Cisco Networking Academy',
       date: 'May 9, 2025',
       description: 'Successfully completed Data Analytics Essentials course.',
       badge: 'CISCO',
       borderColor: 'border-blue-500',
-      image: `${process.env.PUBLIC_URL}/certificates/CISCO3.jpg`
-    },
-    {
-      title: '📊 Cisco - Introduction to Data Science',
-      institution: 'Cisco Networking Academy',
-      date: 'February 12, 2023',
-      description: 'Achieved student level credential in Data Science.',
-      badge: 'CISCO',
-      borderColor: 'border-blue-500',
-      image: `${process.env.PUBLIC_URL}/certificates/CISCO4.jpg`
-    },
-    {
-      title: '💼 Cisco - Engaging Stakeholders for Success',
-      institution: 'Cisco Networking Academy',
-      date: 'May 23, 2025',
-      description: 'Completed course on stakeholder engagement.',
-      badge: 'CISCO',
-      borderColor: 'border-blue-500',
-      image: `${process.env.PUBLIC_URL}/certificates/CISCO5.jpg`
+      image: `${process.env.PUBLIC_URL}/certificates/CISCO2.jpg`
     },
     {
       title: '🎯 PMI Project Management Ready® - Global Credential',
@@ -77,49 +50,22 @@ const Certifications = () => {
       image: `${process.env.PUBLIC_URL}/certificates/PMI.jpg`
     },
     {
-      title: '🌐 IRCITE 2025 - International Research Conference',
-      institution: 'Philippine Society of IT Educators (PSITE)',
-      date: 'April 4, 2025',
-      description: 'Actively participated in IRCITE 2025 conference.',
+      title: '📜 PSITE Membership',
+      institution: 'Philippine Society of IT Educators',
+      date: '2024',
+      description: 'Active member of PSITE organization.',
+      badge: 'MEMBER',
+      borderColor: 'border-green-500',
+      image: `${process.env.PUBLIC_URL}/certificates/PSITE.jpg`
+    },
+    {
+      title: '🎓 IRCITE Participation',
+      institution: 'International Research Conference',
+      date: '2024',
+      description: 'Participated in IRCITE conference.',
       badge: 'EVENT',
       borderColor: 'border-indigo-500',
       image: `${process.env.PUBLIC_URL}/certificates/IRCITE.jpg`
-    },
-    {
-      title: '📜 Certificate of Appreciation - Event Organizer',
-      institution: 'Santa Rita College of Pampanga - SSITE',
-      date: 'April 27, 2024',
-      description: 'Recognized for invaluable contribution as Event Organizer during Public Speaking Seminar.',
-      badge: 'APPRECIATION',
-      borderColor: 'border-green-500',
-      image: `${process.env.PUBLIC_URL}/certificates/APPRE.jpg`
-    },
-    {
-      title: '📜 Certificate of Appreciation - Event Organizer',
-      institution: 'Santa Rita College of Pampanga - SSITE',
-      date: 'September 10, 2024',
-      description: 'Recognized for invaluable contribution as Event Organizer during Leadership seminar.',
-      badge: 'APPRECIATION',
-      borderColor: 'border-green-500',
-      image: `${process.env.PUBLIC_URL}/certificates/APRRE1.jpg`
-    },
-    {
-      title: '📜 Certificate of Participation - CCS Research Colloquium 2025',
-      institution: 'Santa Rita College of Pampanga - CCS',
-      date: 'April 24, 2025',
-      description: 'Actively participated in the 2nd CCS Research Colloquium 2025.',
-      badge: 'PARTICIPATION',
-      borderColor: 'border-teal-500',
-      image: `${process.env.PUBLIC_URL}/certificates/PARTICI.jpg`
-    },
-    {
-      title: '📜 Certificate of Participation - PSITE Regional Assembly',
-      institution: 'PSITE Central Luzon Region',
-      date: 'October 20, 2023',
-      description: 'Actively participated in the 8th Regional Assembly on IT Education.',
-      badge: 'PARTICIPATION',
-      borderColor: 'border-teal-500',
-      image: `${process.env.PUBLIC_URL}/certificates/PSITE.jpg`
     }
   ];
 
